@@ -1,0 +1,48 @@
+<HTML>
+<BODY>
+<TABLE border='1'>
+<TR>
+<TH>Country Name</TH>
+<TH>Capital</TH>
+<TH>Continent</TH>
+<TH>Population</TH>
+<TH>Currency</TH>
+</TR>
+<TR>
+<TD>Philippines</TD>
+<TD>Manila</TD>
+<TD>Asia</TD>
+<TD>109.5 Million</TD>
+<TD>Philippine Peso</TD>
+</TR>
+<TR>
+<TD>Japan</TD>
+<TD>Tokyo</TD>
+<TD>Asia</TD>
+<TD>126.5 Million</TD>
+<TD>Yen</TD>
+</TR>
+<TR>
+<TH>Country Name</TH>
+<TH>Capital</TH>
+<TH>Continent</TH>
+<TH>Population</TH>
+<TH>Currency</TH>
+</TR>
+<TR>
+<TD>Philippines</TD>
+<TD>Manila</TD>
+<TD>Asia</TD>
+<TD>109.5 Million</TD>
+<TD>Philippine Peso</TD>
+</TR>
+<TR>
+<TD>Japan</TD>
+<TD>Tokyo</TD>
+<TD>Asia</TD>
+<TD>126.5 Million</TD>
+<TD>Yen</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
